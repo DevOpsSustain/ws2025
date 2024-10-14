@@ -98,6 +98,7 @@ This workshop edition will explore topics related to:
  - Luca Traini, University of L'Aquila, Italy
  - Heng Li, Polytechnique Montréal, Canada
 
+<!---
 ## Technical Program Committee
 
 - Andre Bondi, Software Performance and Scalability Consulting LLC, USA
@@ -110,6 +111,7 @@ This workshop edition will explore topics related to:
 - Emilio Incerto, IMT School for Advanced Studies, Italy
 - Michele Tucci, University of L’Aquila, Italy
 
+--->
 
 ## Important dates
 - Paper submission: February 7, 2024
@@ -125,10 +127,13 @@ _By submitting your article to an ACM Publication, you are hereby acknowledging 
 
 _Please ensure that you and your co-authors obtain an ORCID ID, so you can complete the publishing process for your accepted paper.  ACM has been involved in ORCID from the start and we have recently made a commitment to collect ORCID IDs from all of our published authors.  The collection process has started and will roll out as a requirement throughout 2022.  We are committed to improve author discoverability, ensure proper attribution and contribute to ongoing community efforts around name normalization; your ORCID ID will help in these efforts._
 
+<!---
 ## Contact
 
 [WOSPC2024@easychair.org](mailto:WOSPC2024@easychair.org)
 
+--->
+<!---
 
 ## Past WOSP-C editions
 
@@ -143,6 +148,7 @@ _Please ensure that you and your co-authors obtain an ORCID ID, so you can compl
 [WOSP-C 2018](http://wosp-c.uib.es/)
 
 [WOSP-C 2017](https://wosp-c.spec.org/)
+--->
 
 [WOSP-C 2016](http://wosp-c.ipd.kit.edu/)
 
