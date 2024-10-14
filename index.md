@@ -131,9 +131,9 @@ _Please ensure that you and your co-authors obtain an ORCID ID, so you can compl
 
 ## Organizing Committee
  
-- Heng Li, Polytechnique Montréal, Canada
-- Luca Traini, University of L'Aquila, Italy
-- Weiyi Shang, University of Waterloo, Canada
+- Heng Li, Polytechnique Montréal, Canada, heng.li@polymtl.ca
+- Luca Traini, University of L'Aquila, Italy, luca.traini@univaq.it
+- Weiyi Shang, University of Waterloo, Canada, wshang@uwaterloo.ca
 
 ## Technical Program Committee
 
