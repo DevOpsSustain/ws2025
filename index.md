@@ -74,13 +74,14 @@ Andreas Brunnert.	**Green Software Metrics**
 
 --->
 
-## Call for paper
+## Call for Papers
+
+**Scope and Topics of Interest**
 
 Information and communication technologies (ICT) are causing ever-growing energy consumption and carbon emissions. Software is at the center of ICT, from large-scale data centers to personal devices. Thus, improving the energy efficiency of the software is critical for reducing the energy footprint of ICT and contributing to sustainable development.
 DevOps has become the main principle for developing and operating modern software systems, which aims to enhance the velocity of releasing high-quality software through automation and integrating development and operations responsibilities. On the one hand, the fast DevOps release cycles pose significant challenges for ensuring the energy efficiency of software and its deployment environment. On the other hand, DevOps provides great opportunities for enhancing software sustainability, since the integration between development and operations allows for continuous collection and analytics of energy consumption data, which can be leveraged as feedback for optimizing the energy efficiency of software and its deployment environment.
 
-**The International Workshop on DevOps for Sustainability (DevOpsSustain)** provides a platform for researchers and practitioners to discuss topics related to the challenges and opportunities in the interplay of DevOps and sustainability. This one-day workshop will include a keynote, presentations of technical research/experience papers, ideas/visions/reflections or working-in-progress papers, demos, and industry presentations. 
-
+*The International Workshop on DevOps for Sustainability (DevOpsSustain)* provides a platform for researchers and practitioners to discuss topics related to the challenges and opportunities in the interplay of DevOps and sustainability. This one-day workshop will include a keynote, presentations of technical research/experience papers, ideas/visions/reflections or working-in-progress papers, demos, and industry presentations. 
 We welcome contributions that foster meaningful discussions on foundational and novel topics at the intersection of DevOps and Sustainability.
 
 This workshop edition will explore topics related to:
@@ -98,33 +99,19 @@ This workshop edition will explore topics related to:
 - Energy consumption of AI-based or data-centric systems
 - Industry reports on sustainable development and operations
 
+**Submission Instructions**
 
-## Organizing Committee
- 
- - Luca Traini, University of L'Aquila, Italy
- - Heng Li, Polytechnique Montréal, Canada
+We plan to accept three types of submissions, as described below. Please follow the format required by FSE 2025 (https://conf.researchr.org/track/fse-2025/fse-2025-how-to-submit); the page limits include references.
+
+*Technical Research/Experience Papers* (long papers, up to 10 pages): This track is defined for papers that report innovative research or significant experiences that are closely aligned with the themes of the workshop.
+    
+*Ideas, Visions, Reflections, or Working-in-Progress Papers* (short papers, up to 4 pages): This track is defined for the submissions that propose radical and innovative ideas, pioneering research directions, provide insightful reflections and lessons from past experiences, or discuss early results of significant research.
+
+*Extended Abstract* (for presentations only, up to 2 pages): This track is defined for demos or industry presentations. This track will not be included in the ACM digital library.
+
+The accepted papers will be included in the FSE companion proceedings to be published in the ACM digital library. As a published ACM author, you and your co-authors are subject to all [ACM Publications Policies](https://www.acm.org/publications/policies/toc), including [ACM's new Publications Policy on Research Involving Human Participants and Subjects](https://www.acm.org/publications/policies/research-involving-human-participants-and-subjects). At least one author of each accepted paper must register and present the paper in person at the workshop to have the paper appear in the FSE companion proceedings.
 
 <!---
-## Technical Program Committee
-
-- Andre Bondi, Software Performance and Scalability Consulting LLC, USA
-- Jinfu Chen, Wuhan University, China
-- Tse-Hsun (Peter) Chen, Concordia University, Canada
-- Diego Elias Costa, Concordia University, Canada
-- Marios Fokaefs, York University, United Kingdom
-- Sebastian Frank,  Universität Hamburg, Germany
-- Sören Henning, Johannes Kepler University/Dynatrace, Austria
-- Emilio Incerto, IMT School for Advanced Studies, Italy
-- Michele Tucci, University of L’Aquila, Italy
-
---->
-
-## Important dates
-- Paper submission: February 7, 2024
-- Author notification: March 5, 2024
-
-## Submission
-
 Authors are invited to submit original, unpublished papers that are not being considered in any other venue. Papers should be in the ACM format. They should describe research results, experience, visions or new initiatives. This year, we accept submissions as full (8 pages), short (4 pages), and vision or work-in-progress (2 pages) papers. Page limits include references. Papers should be submitted via Easychair at [EasyChair WOSP-C 2024](https://easychair.org/conferences/?conf=icpe2024) (by selecting the "author" role, then "New Submission", and then the WOSP-C 2024 track).
 
 ACM templates may be found [here](https://www.acm.org/publications/proceedings-template). Presented papers will be published in the ICPE 2024 companion proceedings, which will be published by ACM and included in the ACM Digital Library. Authors are required to adhere to the ACM Policy and Procedures on Plagiarism, as well as to the ACM Policy on Prior Publication and Simultaneous Submissions. Concurrent submission of the same work to ICPE 2024 and to WOSP-C or any other ICPE 2024 workshop is not permitted.
@@ -132,6 +119,26 @@ ACM templates may be found [here](https://www.acm.org/publications/proceedings-t
 _By submitting your article to an ACM Publication, you are hereby acknowledging that you and your co-authors are subject to all ACM Publications Policies, including ACM's new Publications Policy on Research Involving Human Participants and Subjects. Alleged violations of this policy or any ACM Publications Policy will be investigated by ACM and may result in a full retraction of your paper, in addition to other potential penalties, as per ACM Publications Policy._
 
 _Please ensure that you and your co-authors obtain an ORCID ID, so you can complete the publishing process for your accepted paper.  ACM has been involved in ORCID from the start and we have recently made a commitment to collect ORCID IDs from all of our published authors.  The collection process has started and will roll out as a requirement throughout 2022.  We are committed to improve author discoverability, ensure proper attribution and contribute to ongoing community efforts around name normalization; your ORCID ID will help in these efforts._
+--->
+
+**Important dates**
+
+- Paper submission: February 7, 2024
+- Author notification: March 5, 2024
+
+## Organizing Committee
+ 
+- Heng Li, Polytechnique Montréal, Canada
+- Luca Traini, University of L'Aquila, Italy
+- Weiyi Shang, University of Waterloo, Canada
+
+## Technical Program Committee
+
+To be finalized.
+
+
+
+
 
 <!---
 ## Contact
