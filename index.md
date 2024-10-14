@@ -1,4 +1,4 @@
-### First DevOpsSustain 2025 
+# DevOpsSustain 2025 
 
 The First International Workshop on DevOps for Sustainability (DevOpsSustain), co-located with FSE 2025, provides a platform for researchers and practitioners to discuss topics related to the challenges and opportunities in the interplay of DevOps and sustainability. This one-day workshop will include a keynote, presentations of technical research/experience papers, ideas/visions/reflections or working-in-progress papers, demos, and industry presentations. This workshop is timely and important due to the prevalence of DevOps practices, the pressing concern for sustainability, and the important role that DevOps plays in sustainability. 
 
