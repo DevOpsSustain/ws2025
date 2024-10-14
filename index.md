@@ -148,9 +148,9 @@ _Please ensure that you and your co-authors obtain an ORCID ID, so you can compl
 [WOSP-C 2018](http://wosp-c.uib.es/)
 
 [WOSP-C 2017](https://wosp-c.spec.org/)
---->
 
 [WOSP-C 2016](http://wosp-c.ipd.kit.edu/)
 
 [WOSP-C 2015](http://wosp-c.ipd.kit.edu/wosp_c15/home/index.html)
+--->
 
