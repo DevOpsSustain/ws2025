@@ -3,7 +3,7 @@
 The Workshop on Challenges in Performance Methods for Software Development (WOSP-C) serves as a forum for discussions on novel and unresolved challenges in the field of software performance engineering.
 The workshop encompasses topics such as performance assurance processes, the interplay between performance and software architecture, performance testing and debugging, and performance monitoring. The primary areas of interest for the workshop remain consistent with previous editions, but this edition scope will also extend to include additional novel topics.
 
-
+<!---
 ## Program
 The 9th WOSP-C 2024 is co-located with ICPE 2024, and it will be held on May 7.
 
@@ -18,6 +18,8 @@ The 9th WOSP-C 2024 is co-located with ICPE 2024, and it will be held on May 7.
 | 11:45am       |  Rares Dobre, Zifeng Niu and Giuliano Casale.	__Approximating Fork-Join Systems via Mixed Model Transformations__|
 | 12:05pm         | Jonathan Will, Dominik Scheinert, Seraphin Zunzer, Jan Bode, Cedric Kring and Lauritz Thamsen.	__Privacy-Preserving Sharing of Data Analytics Runtime Metrics for Performance Modeling__|
 | 12:17pm         | Andreas Brunnert.	__Green Software Metrics__|
+
+--->
 
 ### Keynote
 
