@@ -1,8 +1,6 @@
-## First DevOpsSustain 2025
+## First DevOpsSustain 2025 
 
-Information and communication technologies (ICT) are causing ever-growing energy consumption and carbon emissions. Software is at the center of ICT, from large-scale data centers to personal devices. Thus, improving the energy efficiency of the software is critical for reducing the energy footprint of ICT and contributing to sustainable development.
-DevOps has become the main principle for developing and operating modern software systems, which aims to enhance the velocity of releasing high-quality software through automation and integrating development and operations responsibilities. On the one hand, the fast DevOps release cycles pose significant challenges for ensuring the energy efficiency of software and its deployment environment. On the other hand, DevOps provides great opportunities for enhancing software sustainability, since the integration between development and operations allows for continuous collection and analytics of energy consumption data, which can be leveraged as feedback for optimizing the energy efficiency of software and its deployment environment.
-**The International Workshop on DevOps for Sustainability (DevOpsSustain)** provides a platform for researchers and practitioners to discuss topics related to the challenges and opportunities in the interplay of DevOps and sustainability. This one-day workshop will include presentations of technical research/experience papers, ideas/visions/reflections or working-in-progress papers, demos, industry presentations, and a keynote. This workshop is timely and important due to the prevalence of DevOps practices, the pressing concern for sustainability, and the important role that DevOps plays in sustainability. 
+The First International Workshop on DevOps for Sustainability (DevOpsSustain), co-located with FSE 2025, provides a platform for researchers and practitioners to discuss topics related to the challenges and opportunities in the interplay of DevOps and sustainability. This one-day workshop will include a keynote, presentations of technical research/experience papers, ideas/visions/reflections or working-in-progress papers, demos, and industry presentations. This workshop is timely and important due to the prevalence of DevOps practices, the pressing concern for sustainability, and the important role that DevOps plays in sustainability. 
 
 <!---
 ## Program
@@ -78,20 +76,27 @@ Andreas Brunnert.	**Green Software Metrics**
 
 ## Call for paper
 
-We welcome contributions that foster meaningful discussions on both foundational and novel topics within the performance engineering community.
+Information and communication technologies (ICT) are causing ever-growing energy consumption and carbon emissions. Software is at the center of ICT, from large-scale data centers to personal devices. Thus, improving the energy efficiency of the software is critical for reducing the energy footprint of ICT and contributing to sustainable development.
+DevOps has become the main principle for developing and operating modern software systems, which aims to enhance the velocity of releasing high-quality software through automation and integrating development and operations responsibilities. On the one hand, the fast DevOps release cycles pose significant challenges for ensuring the energy efficiency of software and its deployment environment. On the other hand, DevOps provides great opportunities for enhancing software sustainability, since the integration between development and operations allows for continuous collection and analytics of energy consumption data, which can be leveraged as feedback for optimizing the energy efficiency of software and its deployment environment.
+
+**The International Workshop on DevOps for Sustainability (DevOpsSustain)** provides a platform for researchers and practitioners to discuss topics related to the challenges and opportunities in the interplay of DevOps and sustainability. This one-day workshop will include a keynote, presentations of technical research/experience papers, ideas/visions/reflections or working-in-progress papers, demos, and industry presentations. 
+
+We welcome contributions that foster meaningful discussions on foundational and novel topics at the intersection of DevOps and Sustainability.
 
 This workshop edition will explore topics related to:
 
-- Model-based performance analysis
-- Empirical studies in performance engineering 
-- Performance monitoring
-- AIOps for performance assurance
-- Performance testing and debugging
-- Performance engineering in Agile/DevOps software processes
-- Green software and energy efficiency
-- Performance engineering for Machine Learning systems
-- Machine learning for performance engineering tasks
-- Industry reports on performance engineering challenges and experience
+- Energy measurement, profiling, and monitoring
+- Testing for energy efficiency
+- Energy optimization in software deployment
+- Energy consumption modeling/characterization
+- Energy considerations software development lifecycles
+- Energy-aware operations and deployment
+- Energy benchmarking
+- AI for software sustainability
+- Energy anomaly detection and root cause diagnosis
+- Empirical studies on software energy consumption
+- Energy consumption of AI-based or data-centric systems
+- Industry reports on sustainable development and operations
 
 
 ## Organizing Committee
