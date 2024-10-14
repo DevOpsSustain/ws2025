@@ -101,13 +101,13 @@ This workshop edition will explore topics related to:
 
 **Submission Instructions**
 
-We plan to accept three types of submissions, as described below. Please follow the format required by FSE 2025 (https://conf.researchr.org/track/fse-2025/fse-2025-how-to-submit); the page limits include references.
+We plan to accept three types of submissions, as described below. Please follow the [format required by FSE 2025](https://conf.researchr.org/track/fse-2025/fse-2025-how-to-submit); the page limits include references.
 
-*Technical Research/Experience Papers* (long papers, up to 10 pages): This track is defined for papers that report innovative research or significant experiences that are closely aligned with the themes of the workshop.
+- *Technical Research/Experience Papers* (long papers, up to 10 pages): This track is defined for papers that report innovative research or significant experiences that are closely aligned with the themes of the workshop.
     
-*Ideas, Visions, Reflections, or Working-in-Progress Papers* (short papers, up to 4 pages): This track is defined for the submissions that propose radical and innovative ideas, pioneering research directions, provide insightful reflections and lessons from past experiences, or discuss early results of significant research.
+- *Ideas, Visions, Reflections, or Working-in-Progress Papers* (short papers, up to 4 pages): This track is defined for the submissions that propose radical and innovative ideas, pioneering research directions, provide insightful reflections and lessons from past experiences, or discuss early results of significant research.
 
-*Extended Abstract* (for presentations only, up to 2 pages): This track is defined for demos or industry presentations. This track will not be included in the ACM digital library.
+- *Extended Abstract* (for presentations only, up to 2 pages): This track is defined for demos or industry presentations. This track will not be included in the ACM digital library.
 
 The accepted papers will be included in the FSE companion proceedings to be published in the ACM digital library. As a published ACM author, you and your co-authors are subject to all [ACM Publications Policies](https://www.acm.org/publications/policies/toc), including [ACM's new Publications Policy on Research Involving Human Participants and Subjects](https://www.acm.org/publications/policies/research-involving-human-participants-and-subjects). At least one author of each accepted paper must register and present the paper in person at the workshop to have the paper appear in the FSE companion proceedings.
 
