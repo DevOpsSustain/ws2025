@@ -21,6 +21,7 @@ The 9th WOSP-C 2024 is co-located with ICPE 2024, and it will be held on May 7.
 
 --->
 
+<!---
 ### Keynote
 
 **Marin Litoiu**, York University
@@ -53,6 +54,8 @@ _Abstract_:
 
 A new era has been opened at the end of last century in the performance analysis research area, when an explicit and independent role has started to be given to software in performance analysis of computing systems. Indeed, software has moved from being a monolithic element, strictly dependent on the platform where it is deployed and exclusively aimed at producing values to parameterize a platform model, to become an independent model itself, with its own components and interactions. This change has impacted all fields of this research area, such as: modeling languages, processes for analysis and synthesis of software models, platform model parameterization, performance model solution techniques, interpretation of results, benchmarking and performance testing. It has also represented one of the triggers that lead to the birth of a research community around the computing system performance issues strictly related to software aspects. Indeed, in 1998 the first ACM Workshop on Software and Performance (WOSP) took place, with the aim of getting together researchers and practitioners of software area with the ones of the performance area, so to offer a playground where different skills and expertise could join and originate a new vision on the role of software in performance assessment. This talk attempts to reconstruct the road of software performance research that has started at the time of the first WOSP event in 1998 down to today events (i.e., ICPE conference, WOSP-C and other workshops). The spirit of the talk is to observe the evolution of this research area, including successful and (apparently) unsuccessful directions. Some promising directions will be tentatively sketched by “standing on the shoulders of giants”.
 
+--->
+<!---
 ---
 
 ### Accepted papers
@@ -70,7 +73,7 @@ Andreas Brunnert.	**Green Software Metrics**
 
 ---
 
-
+--->
 
 ## Call for paper
 
