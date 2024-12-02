@@ -129,12 +129,6 @@ _Please ensure that you and your co-authors obtain an ORCID ID, so you can compl
 - Author notification: Tuesday Mar 25th, 2025
 - Papers camera-ready: Thursday Apr 24th, 2025
 
-## Organizing Committee
- 
-- Heng Li, Polytechnique Montréal, Canada, heng.li@polymtl.ca
-- Luca Traini, University of L'Aquila, Italy, luca.traini@univaq.it
-- Weiyi Shang, University of Waterloo, Canada, wshang@uwaterloo.ca
-
 ## Technical Program Committee
 
 - Alex Podelko, Amazon AWS
@@ -151,6 +145,12 @@ _Please ensure that you and your co-authors obtain an ORCID ID, so you can compl
 - Shola Oyedeji, LUT University
 - Vincenzo Stoico, Vrije Universiteit Amsterdam
 - Yiming Tang, Rochester Institute of Technology
+
+## Organizing Committee
+ 
+- Heng Li, Polytechnique Montréal, Canada, heng.li@polymtl.ca
+- Luca Traini, University of L'Aquila, Italy, luca.traini@univaq.it
+- Weiyi Shang, University of Waterloo, Canada, wshang@uwaterloo.ca
 
 
 
