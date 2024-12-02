@@ -137,9 +137,20 @@ _Please ensure that you and your co-authors obtain an ORCID ID, so you can compl
 
 ## Technical Program Committee
 
-To be finalized.
-
-
+- Alex Podelko, Amazon AWS
+- Chetan Bansal, Microsoft Research
+- Diego Elias Costa, Concordia University
+- Gregory Gay, Göteborgs Universitet
+- Jinfu Chen, Wuhan University
+- Klaus-Dieter Lange, Hewlett Packard Enterprise
+- Maxime Lamothe, Polytechnique Montréal
+- Michele Tucci, University of L'Aquila
+- Mohammad Hamdaqa, Polytechnique Montréal
+- Tse-Hsun (Peter) Chen, Concordia University
+- Shaiful Chowdhury, University of Manitoba
+- Shola Oyedeji, LUT University
+- Vincenzo Stoico, Vrije Universiteit Amsterdam
+- Yiming Tang, Rochester Institute of Technology
 
 
 
