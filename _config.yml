@@ -3,6 +3,6 @@ theme: jekyll-theme-cayman
 #plugins:
 #- jekyll-remote-theme # add this line to the plugins list if you already have one
 title: DevOpsSustain 2025
-description: First International Workshop on DevOps for Sustainability, co-located with FSE 2025 \ Mon 23 - Fri 27 June 2025 Trondheim, Norway
+description: First International Workshop on DevOps for Sustainability \ Co-located with FSE 2025, Mon 23 - Fri 27 June 2025 Trondheim, Norway
 github:
   is_project_page: false
