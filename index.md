@@ -101,7 +101,8 @@ This workshop edition will explore topics related to:
 
 **Submission Instructions**
 
-Authors are invited to submit original, unpublished papers that are not being considered in any other venue. Papers should follow the [ACM format required by FSE 2025](https://conf.researchr.org/track/fse-2025/fse-2025-how-to-submit). Papers should be submitted via the [HotCRP submission site](https://devopssustain25.hotcrp.com).
+Authors are invited to submit original, unpublished papers that are not being considered in any other venue. Papers should follow the [ACM format required by FSE 2025](https://conf.researchr.org/track/fse-2025/fse-2025-how-to-submit). 
+Please note that the workshop papers must use the double-column format required by the Companion proceedings. Papers should be submitted via the [HotCRP submission site](https://devopssustain25.hotcrp.com).
 
 We plan to accept three types of submissions, as described below. The page limits include references.
 
