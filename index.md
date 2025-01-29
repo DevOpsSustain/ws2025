@@ -120,7 +120,7 @@ Please note that the workshop papers must use the **double-column** format requi
 
 In order to ensure the fairness of the reviewing process, the workshop will employ a **double-anonymous** review process where reviewers (except PC chairs) do not know the identity of authors, and authors do not know the identity of reviewers. The papers submitted must not reveal the authors’ identities in any way. Please find more details about the double-anonymous review process [here](https://conf.researchr.org/track/fse-2025/fse-2025-how-to-submit#double-anonymous-review-process).
 
-If you use LaTex, please use `\documentclass[sigconf,screen,review,anonymous]{acmart}`.
+If you use LaTeX, please use `\documentclass[sigconf,screen,review,anonymous]{acmart}`.
 
 <!---
 Authors are invited to submit original, unpublished papers that are not being considered in any other venue. Papers should be in the ACM format. They should describe research results, experience, visions or new initiatives. This year, we accept submissions as full (8 pages), short (4 pages), and vision or work-in-progress (2 pages) papers. Page limits include references. Papers should be submitted via Easychair at [EasyChair WOSP-C 2024](https://easychair.org/conferences/?conf=icpe2024) (by selecting the "author" role, then "New Submission", and then the WOSP-C 2024 track).
