@@ -106,8 +106,7 @@ Please note that the workshop papers must use the double-column format required 
 
 In order to ensure the fairness of the reviewing process, the workshop will employ a double-anonymous review process where reviewers (except PC chairs) do not know the identity of authors, and authors do not know the identity of reviewers. The papers submitted must not reveal the authors’ identities in any way. Please find more details about the double-anonymous review process [here](https://conf.researchr.org/track/fse-2025/fse-2025-how-to-submit#double-anonymous-review-process).
 
-
-All submissions must be anonymous:. \documentclass[sigconf,screen,review,anonymous]{acmart}
+If you use LaTex, please use `\documentclass[sigconf,screen,review,anonymous]{acmart}`.
 
 
 We accept three types of submissions, as described below. The page limits include references.
