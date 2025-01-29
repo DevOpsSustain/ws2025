@@ -104,7 +104,13 @@ This workshop edition will explore topics related to:
 Authors are invited to submit original, unpublished papers that are not being considered in any other venue. Papers should follow the [ACM format required by FSE 2025](https://conf.researchr.org/track/fse-2025/fse-2025-how-to-submit). 
 Please note that the workshop papers must use the double-column format required by the Companion proceedings. Papers should be submitted via the [HotCRP submission site](https://devopssustain25.hotcrp.com).
 
-We plan to accept three types of submissions, as described below. The page limits include references.
+In order to ensure the fairness of the reviewing process, the workshop will employ a double-anonymous review process where reviewers (except PC chairs) do not know the identity of authors, and authors do not know the identity of reviewers. The papers submitted must not reveal the authors’ identities in any way. Please find more details about the double-anonymous review process [here](https://conf.researchr.org/track/fse-2025/fse-2025-how-to-submit#double-anonymous-review-process).
+
+
+All submissions must be anonymous:. \documentclass[sigconf,screen,review,anonymous]{acmart}
+
+
+We accept three types of submissions, as described below. The page limits include references.
 
 - *Technical Research/Experience Papers* (long papers, up to 10 pages): This track is defined for papers that report innovative research or significant experiences that are closely aligned with the themes of the workshop.
     
