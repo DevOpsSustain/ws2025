@@ -99,17 +99,11 @@ This workshop edition will explore topics related to:
 - Energy consumption of AI-based or data-centric systems
 - Industry reports on sustainable development and operations
 
-**Submission Instructions**
+**Types of Submissions**
 
-Authors are invited to submit original, unpublished papers that are not being considered in any other venue. Papers should follow the [ACM format required by FSE 2025](https://conf.researchr.org/track/fse-2025/fse-2025-how-to-submit). 
-Please note that the workshop papers must use the double-column format required by the Companion proceedings. Papers should be submitted via the [HotCRP submission site](https://devopssustain25.hotcrp.com).
+Authors are invited to submit original, unpublished papers that are not being considered in any other venue. 
 
-In order to ensure the fairness of the reviewing process, the workshop will employ a double-anonymous review process where reviewers (except PC chairs) do not know the identity of authors, and authors do not know the identity of reviewers. The papers submitted must not reveal the authors’ identities in any way. Please find more details about the double-anonymous review process [here](https://conf.researchr.org/track/fse-2025/fse-2025-how-to-submit#double-anonymous-review-process).
-
-If you use LaTex, please use `\documentclass[sigconf,screen,review,anonymous]{acmart}`.
-
-
-We accept three types of submissions, as described below. The page limits include references.
+We accept three types of submissions, as described below. **The page limits include references**.
 
 - *Technical Research/Experience Papers* (long papers, up to 10 pages): This track is defined for papers that report innovative research or significant experiences that are closely aligned with the themes of the workshop.
     
@@ -118,6 +112,15 @@ We accept three types of submissions, as described below. The page limits includ
 - *Extended Abstract* (for presentations only, up to 2 pages): This track is defined for demos or industry presentations. This track will not be included in the ACM digital library.
 
 The accepted papers will be included in the FSE companion proceedings to be published in the ACM digital library. As a published ACM author, you and your co-authors are subject to all [ACM Publications Policies](https://www.acm.org/publications/policies/toc), including [ACM's new Publications Policy on Research Involving Human Participants and Subjects](https://www.acm.org/publications/policies/research-involving-human-participants-and-subjects). At least one author of each accepted paper must register and present the paper in person at the workshop to have the paper appear in the FSE companion proceedings.
+
+**Submission Instructions**
+
+Papers should follow the [ACM format required by FSE 2025](https://conf.researchr.org/track/fse-2025/fse-2025-how-to-submit). 
+Please note that the workshop papers must use the **double-column** format required by the Companion proceedings. Papers should be submitted via the [**HotCRP submission site**](https://devopssustain25.hotcrp.com).
+
+In order to ensure the fairness of the reviewing process, the workshop will employ a **double-anonymous** review process where reviewers (except PC chairs) do not know the identity of authors, and authors do not know the identity of reviewers. The papers submitted must not reveal the authors’ identities in any way. Please find more details about the double-anonymous review process [here](https://conf.researchr.org/track/fse-2025/fse-2025-how-to-submit#double-anonymous-review-process).
+
+If you use LaTex, please use `\documentclass[sigconf,screen,review,anonymous]{acmart}`.
 
 <!---
 Authors are invited to submit original, unpublished papers that are not being considered in any other venue. Papers should be in the ACM format. They should describe research results, experience, visions or new initiatives. This year, we accept submissions as full (8 pages), short (4 pages), and vision or work-in-progress (2 pages) papers. Page limits include references. Papers should be submitted via Easychair at [EasyChair WOSP-C 2024](https://easychair.org/conferences/?conf=icpe2024) (by selecting the "author" role, then "New Submission", and then the WOSP-C 2024 track).
