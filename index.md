@@ -141,6 +141,7 @@ _Please ensure that you and your co-authors obtain an ORCID ID, so you can compl
 - Paper submission: Tuesday Feb 25th, 2025
 - Author notification: Tuesday Mar 25th, 2025
 - Papers camera-ready: Thursday Apr 24th, 2025
+- Tentative workshop dates: June 26th/27th, 2025
 
 ## Technical Program Committee
 
