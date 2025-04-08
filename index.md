@@ -30,7 +30,9 @@ The 9th WOSP-C 2024 is co-located with ICPE 2024, and it will be held on May 7.
 
 **Dr. Tamar Eilam**, IBM Research
 
-![Tamar Eilam](assets/tamar.jpg)
+<!--![Tamar Eilam](/assets/tamar.png){:style="float: right;margin-right: 7px;margin-top: 7px;"}-->
+
+<img src="/assets/tamar.png" alt="Dr. Tamar Eilam" width="300" height="300">
 
 _Biography_: 
 
