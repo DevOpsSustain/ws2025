@@ -1,8 +1,10 @@
 # DevOpsSustain 2025 
 
+<!--
 ***New***: Accepted papers at the DevOpsSustain 2025 workshop will be invited to submit extended versions to the Journal of Systems and Software: Special Issue on Intelligent DevOps for Performance, Sustainability, and Reliability.
 
 ***Reminder*** 🗓️ Paper due Feb. 25.
+-->
 
 The First International Workshop on DevOps for Sustainability (DevOpsSustain), co-located with FSE 2025, provides a platform for researchers and practitioners to discuss topics related to the challenges and opportunities in the interplay of DevOps and sustainability. This one-day workshop will include a keynote, presentations of technical research/experience papers, ideas/visions/reflections or working-in-progress papers, demos, and industry presentations. This workshop is timely and important due to the prevalence of DevOps practices, the pressing concern for sustainability, and the important role that DevOps plays in sustainability. 
 
@@ -23,6 +25,16 @@ The 9th WOSP-C 2024 is co-located with ICPE 2024, and it will be held on May 7.
 | 12:17pm         | Andreas Brunnert.	__Green Software Metrics__|
 
 --->
+
+### Keynote
+
+**Dr. Tamar Eilam**, IBM Research
+
+_Biography_: 
+
+Dr. Tamar Eilam is an IBM Fellow and Chief Scientist for Sustainable Computing at the IBM T.J. Watson Research Center in New York. She leads pioneering research aimed at drastically reducing the carbon footprint of computing across infrastructure, systems, software, data, and AI. Before focusing on Sustainable Computing, Dr. Eilam spearheaded innovative research to improve development and operations effectiveness. She earned her Ph.D. in Computer Science from the Technion, Israel, in 2000, joining IBM T.J. Watson Research Center as a Research Staff Member that same year. In recognition of her exceptional contributions, she was named an IBM Fellow in 2014 — the company's highest technical distinction.
+
+**_Re-Engineering DevOps for Sustainability: challenges and opportunities (tentative)_**
 
 <!---
 ### Keynote
@@ -58,11 +70,8 @@ _Abstract_:
 A new era has been opened at the end of last century in the performance analysis research area, when an explicit and independent role has started to be given to software in performance analysis of computing systems. Indeed, software has moved from being a monolithic element, strictly dependent on the platform where it is deployed and exclusively aimed at producing values to parameterize a platform model, to become an independent model itself, with its own components and interactions. This change has impacted all fields of this research area, such as: modeling languages, processes for analysis and synthesis of software models, platform model parameterization, performance model solution techniques, interpretation of results, benchmarking and performance testing. It has also represented one of the triggers that lead to the birth of a research community around the computing system performance issues strictly related to software aspects. Indeed, in 1998 the first ACM Workshop on Software and Performance (WOSP) took place, with the aim of getting together researchers and practitioners of software area with the ones of the performance area, so to offer a playground where different skills and expertise could join and originate a new vision on the role of software in performance assessment. This talk attempts to reconstruct the road of software performance research that has started at the time of the first WOSP event in 1998 down to today events (i.e., ICPE conference, WOSP-C and other workshops). The spirit of the talk is to observe the evolution of this research area, including successful and (apparently) unsuccessful directions. Some promising directions will be tentatively sketched by “standing on the shoulders of giants”.
 
 --->
-<!---
----
 
 ### Accepted papers
-
 
 Marcel Lütke Dreimann, Birte Friesel and Olaf Spinczyk.	**HetSim: A Simulator for Task-based Scheduling on Heterogeneous Hardware**
 
@@ -74,9 +83,6 @@ Jonathan Will, Dominik Scheinert, Seraphin Zunzer, Jan Bode, Cedric Kring and La
 
 Andreas Brunnert.	**Green Software Metrics**
 
----
-
---->
 
 ## Call for Papers
 
@@ -142,6 +148,9 @@ _Please ensure that you and your co-authors obtain an ORCID ID, so you can compl
 - Author notification: Tuesday Mar 25th, 2025
 - Papers camera-ready: Thursday Apr 24th, 2025
 - Tentative workshop dates: June 26th/27th, 2025
+
+**JSS Special Issue on Intelligent DevOps for Performance, Sustainability, and Reliability**
+Accepted Technical Research/Experience papers (long papers) at the DevOpsSustain 2025 workshop will be invited to submit extended versions to the Journal of Systems and Software: Special Issue on Intelligent DevOps for Performance, Sustainability, and Reliability.
 
 ## Technical Program Committee
 
