@@ -34,7 +34,7 @@ _Biography_:
 
 Dr. Tamar Eilam is an IBM Fellow and Chief Scientist for Sustainable Computing at the IBM T.J. Watson Research Center in New York. She leads pioneering research aimed at drastically reducing the carbon footprint of computing across infrastructure, systems, software, data, and AI. Before focusing on Sustainable Computing, Dr. Eilam spearheaded innovative research to improve development and operations effectiveness. She earned her Ph.D. in Computer Science from the Technion, Israel, in 2000, joining IBM T.J. Watson Research Center as a Research Staff Member that same year. In recognition of her exceptional contributions, she was named an IBM Fellow in 2014 — the company's highest technical distinction.
 
-**_Re-Engineering DevOps for Sustainability: challenges and opportunities (tentative)_**
+**Topic (tentative): _Re-Engineering DevOps for Sustainability: challenges and opportunities_**
 
 <!---
 ### Keynote
@@ -73,15 +73,13 @@ A new era has been opened at the end of last century in the performance analysis
 
 ### Accepted papers
 
-Marcel Lütke Dreimann, Birte Friesel and Olaf Spinczyk.	**HetSim: A Simulator for Task-based Scheduling on Heterogeneous Hardware**
+Jérôme Maquoi (University of Namur), Maxime Cauz (University of Namur), Benoit Vanderose (Université de Namur), Xavier Devroey (University of Namur).	**Energy Codesumption, Leveraging Test Execution for Source Code Energy Consumption Analysis**
 
-Josef Mayrhofer.	**Establish a Performance Engineering Culture in Organizations**
+Pushpa Priyanka Palesetti (Lund University), Emelie Engström (Lund University), Emma Söderberg (Lund University), Al-Hussein Hameed Jasim (Tetra Pak), Andreas Bexell (Ericsson AB/Lund University), Nikolaos Korkakakis (Volvo Cars), Amir Aminifar (Lund University), Robert Lagerstedt (Bosch), Pontus Olsson (Bosch), Per Sigurdson (Remotive Labs), Markus Borg (CodeScene and Lund University), Nadim Hagatulah (Lund University), Alma Orucevic-Alagic (Lund University), Maria Kihl (Lund University).	**Towards Sustainable DevOps for Cyber Physical Systems**
 
-Rares Dobre, Zifeng Niu and Giuliano Casale.	**Approximating Fork-Join Systems via Mixed Model Transformations**
+Andreas Brunnert (Munich University of Applied Sciences HM).	**Evaluating the Accuracy of Software Energy Consumption Models for Java Applications on Process and Transaction Level**
 
-Jonathan Will, Dominik Scheinert, Seraphin Zunzer, Jan Bode, Cedric Kring and Lauritz Thamsen.	**Privacy-Preserving Sharing of Data Analytics Runtime Metrics for Performance Modeling**
-
-Andreas Brunnert.	**Green Software Metrics**
+Gennaro Zanfardino (University of L'Aquila), Mashal Afzal Memon (Università degli Studi dell'Aquila), Michele Tucci (University of L'Aquila).	**Enhancing Energy Efficiency with Reusable Software Ecosystems and Persona-Based UI/UX**
 
 
 ## Call for Papers
