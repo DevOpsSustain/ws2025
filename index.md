@@ -81,7 +81,7 @@ Jérôme Maquoi (University of Namur), Maxime Cauz (University of Namur), Benoit
 
 Pushpa Priyanka Palesetti (Lund University), Emelie Engström (Lund University), Emma Söderberg (Lund University), Al-Hussein Hameed Jasim (Tetra Pak), Andreas Bexell (Ericsson AB/Lund University), Nikolaos Korkakakis (Volvo Cars), Amir Aminifar (Lund University), Robert Lagerstedt (Bosch), Pontus Olsson (Bosch), Per Sigurdson (Remotive Labs), Markus Borg (CodeScene and Lund University), Nadim Hagatulah (Lund University), Alma Orucevic-Alagic (Lund University), Maria Kihl (Lund University).	**Towards Sustainable DevOps for Cyber Physical Systems**
 
-Andreas Brunnert (Munich University of Applied Sciences HM).	**Evaluating the Accuracy of Software Energy Consumption Models for Java Applications on Process and Transaction Level**
+Andreas Brunnert (Munich University of Applied Sciences HM).	**Evaluating the Accuracy of Software Energy Consumption Models for Java Applications at Process and Transaction Levels**
 
 Gennaro Zanfardino (University of L'Aquila), Mashal Afzal Memon (Università degli Studi dell'Aquila), Michele Tucci (University of L'Aquila).	**Enhancing Energy Efficiency with Reusable Software Ecosystems and Persona-Based UI/UX**
 
