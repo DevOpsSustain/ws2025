@@ -44,6 +44,7 @@ Dr. Tamar Eilam is an IBM Fellow and Chief Scientist for Sustainable Computing a
 
 <img src="https://github.com/DevOpsSustain/ws2025/blob/gh-pages/assets/Sarro.png?raw=true" alt="Dr. Federica Sarro" width="300" height="300">
 
+**Topic: Coming soon**
 
 <!---
 ### Keynote
