@@ -26,7 +26,7 @@ The 9th WOSP-C 2024 is co-located with ICPE 2024, and it will be held on May 7.
 
 --->
 
-### Keynote
+### Keynotes
 
 **Dr. Tamar Eilam**, IBM Research
 
@@ -39,6 +39,11 @@ _Biography_:
 Dr. Tamar Eilam is an IBM Fellow and Chief Scientist for Sustainable Computing at the IBM T.J. Watson Research Center in New York. She leads pioneering research aimed at drastically reducing the carbon footprint of computing across infrastructure, systems, software, data, and AI. Before focusing on Sustainable Computing, Dr. Eilam spearheaded innovative research to improve development and operations effectiveness. She earned her Ph.D. in Computer Science from the Technion, Israel, in 2000, joining IBM T.J. Watson Research Center as a Research Staff Member that same year. In recognition of her exceptional contributions, she was named an IBM Fellow in 2014 — the company's highest technical distinction.
 
 **Topic (tentative): _Re-Engineering DevOps for Sustainability: challenges and opportunities_**
+
+**Dr. Federica Sarro**, University College London
+
+<img src="https://github.com/DevOpsSustain/ws2025/blob/gh-pages/assets/Sarro.png?raw=true" alt="Dr. Federica Sarro" width="300" height="300">
+
 
 <!---
 ### Keynote
