@@ -6,25 +6,23 @@
 ***Reminder*** 🗓️ Paper due Feb. 25.
 -->
 
-The First International Workshop on DevOps for Sustainability (DevOpsSustain), co-located with FSE 2025, provides a platform for researchers and practitioners to discuss topics related to the challenges and opportunities in the interplay of DevOps and sustainability. This one-day workshop will include a keynote, presentations of technical research/experience papers, ideas/visions/reflections or working-in-progress papers, demos, and industry presentations. This workshop is timely and important due to the prevalence of DevOps practices, the pressing concern for sustainability, and the important role that DevOps plays in sustainability. 
+<!--The First International Workshop on DevOps for Sustainability (DevOpsSustain), co-located with FSE 2025, provides a platform for researchers and practitioners to discuss topics related to the challenges and opportunities in the interplay of DevOps and sustainability. This one-day workshop will include a keynote, presentations of technical research/experience papers, ideas/visions/reflections or working-in-progress papers, demos, and industry presentations. This workshop is timely and important due to the prevalence of DevOps practices, the pressing concern for sustainability, and the important role that DevOps plays in sustainability. 
+-->
 
-<!---
 ## Program
-The 9th WOSP-C 2024 is co-located with ICPE 2024, and it will be held on May 7.
+The First International Workshop on DevOps for Sustainability (DevOpsSustain) is co-located with FSE 2025. It will be held on Friday, June 27, in Trondheim, Norway.
 
-| Time (GMT+1)      | Title |
+| Local Time      | Title |
 |----------------------|-------|
-| 9:00am       | Welcome: Heng Li, and Luca Traini |
-| 9:05am      | **Keynote**: Closing the Loop: Building Self-Adaptive Software for Continuous Performance Engineering - **Marin Litoiu**, York University |
-| 9:50am      | Marcel Lütke Dreimann, Birte Friesel and Olaf Spinczyk. __HetSim: A Simulator for Task-based Scheduling on Heterogeneous Hardware__|
-| 10:10am       | Josef Mayrhofer. __Establish a Performance Engineering Culture in Organizations__|
+| 9:00am       | Welcome: Weiyi Shang, Luca Traini, Heng Li|
+| 9:05am      | **Keynote**: Re-Engineering DevOps for Sustainability: challenges and opportunities - **Tamar Eilam**, IBM Research |
+| 9:50am      | Andreas Brunnert (Munich University of Applied Sciences HM). __Evaluating the Accuracy of Software Energy Consumption Models for Java Applications on Process and Transaction Level__|
+| 10:10am       | Jérôme Maquoi (University of Namur), Maxime Cauz (University of Namur), Benoit Vanderose (Université de Namur), Xavier Devroey (University of Namur). __Energy Codesumption, Leveraging Test Execution for Source Code Energy Consumption Analysis__|
 | 10:30am      | Coffee Break ☕️ | 
-| 11:00am       | **Keynote**:  25+ years of Software Performance: From Integrated System Modelling to ML-based Analysis, What’s Next? - **Vittorio Cortellessa**, University of L’Aquila |
-| 11:45am       |  Rares Dobre, Zifeng Niu and Giuliano Casale.	__Approximating Fork-Join Systems via Mixed Model Transformations__|
-| 12:05pm         | Jonathan Will, Dominik Scheinert, Seraphin Zunzer, Jan Bode, Cedric Kring and Lauritz Thamsen.	__Privacy-Preserving Sharing of Data Analytics Runtime Metrics for Performance Modeling__|
-| 12:17pm         | Andreas Brunnert.	__Green Software Metrics__|
-
---->
+| 11:00am       | **Keynote**:  Title TBD - **Federica Sarro**, University College London |
+| 11:45am       |  Gennaro Zanfardino (University of L'Aquila), Mashal Afzal Memon (Università degli Studi dell'Aquila), Michele Tucci (University of L'Aquila).	__Enhancing Energy Efficiency with Reusable Software Ecosystems and Persona-Based UI/UX__|
+| 12:05pm         | Pushpa Priyanka Palesetti (Lund University), Emelie Engström (Lund University), Emma Söderberg (Lund University), Al-Hussein Hameed Jasim (Tetra Pak), Andreas Bexell (Ericsson AB/Lund University), Nikolaos Korkakakis (Volvo Cars), Amir Aminifar (Lund University), Robert Lagerstedt (Bosch), Pontus Olsson (Bosch), Per Sigurdson (Remotive Labs), Markus Borg (CodeScene and Lund University), Nadim Hagatulah (Lund University), Alma Orucevic-Alagic (Lund University), Maria Kihl (Lund University).	__Towards Sustainable DevOps for Cyber Physical Systems__|
+| 12:25pm         | Closing|
 
 ### Keynotes
 
