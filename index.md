@@ -16,7 +16,7 @@ The First International Workshop on DevOps for Sustainability (DevOpsSustain) is
 |----------------------|-------|
 | 9:00am       | Welcome: Weiyi Shang, Luca Traini, Heng Li|
 | 9:05am      | **Keynote**: Re-Engineering DevOps for Sustainability: challenges and opportunities - **Tamar Eilam**, IBM Research |
-| 9:50am      | Andreas Brunnert (Munich University of Applied Sciences HM). __Evaluating the Accuracy of Software Energy Consumption Models for Java Applications on Process and Transaction Level__|
+| 9:50am      | Andreas Brunnert (Munich University of Applied Sciences HM). __Evaluating the Accuracy of Software Energy Consumption Models for Java Applications at Process and Transaction Levels__|
 | 10:10am       | Jérôme Maquoi (University of Namur), Maxime Cauz (University of Namur), Benoit Vanderose (Université de Namur), Xavier Devroey (University of Namur). __Energy Codesumption, Leveraging Test Execution for Source Code Energy Consumption Analysis__|
 | 10:30am      | Coffee Break ☕️ | 
 | 11:00am       | **Keynote**:  Title TBD - **Federica Sarro**, University College London |
