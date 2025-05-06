@@ -10,9 +10,9 @@
 -->
 
 ## Program
-The First International Workshop on DevOps for Sustainability (DevOpsSustain) is co-located with FSE 2025. It will be held on Friday, June 27.
+The First International Workshop on DevOps for Sustainability (DevOpsSustain) is co-located with FSE 2025. It will be held on Friday, June 27, in Trondheim, Norway.
 
-| Time (GMT+1)      | Title |
+| Local Time      | Title |
 |----------------------|-------|
 | 9:00am       | Welcome: Weiyi Shang, Luca Traini, Heng Li|
 | 9:05am      | **Keynote**: Re-Engineering DevOps for Sustainability: challenges and opportunities - **Tamar Eilam**, IBM Research |
