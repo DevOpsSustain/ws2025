@@ -19,7 +19,7 @@ The First International Workshop on DevOps for Sustainability (DevOpsSustain) is
 | 9:50am      | Andreas Brunnert (Munich University of Applied Sciences HM). __Evaluating the Accuracy of Software Energy Consumption Models for Java Applications at Process and Transaction Levels__|
 | 10:10am       | Jérôme Maquoi (University of Namur), Maxime Cauz (University of Namur), Benoit Vanderose (Université de Namur), Xavier Devroey (University of Namur). __Energy Codesumption, Leveraging Test Execution for Source Code Energy Consumption Analysis__|
 | 10:30am      | Coffee Break ☕️ | 
-| 11:00am       | **Keynote**:  Title TBD - **Federica Sarro**, University College London |
+| 11:00am       | **Keynote**: Search-Based Software Engineering for Realising Responsible Artificial Intelligent Systems - **Federica Sarro**, University College London |
 | 11:45am       |  Gennaro Zanfardino (University of L'Aquila), Mashal Afzal Memon (Università degli Studi dell'Aquila), Michele Tucci (University of L'Aquila).	__Enhancing Energy Efficiency with Reusable Software Ecosystems and Persona-Based UI/UX__|
 | 12:05pm         | Pushpa Priyanka Palesetti (Lund University), Emelie Engström (Lund University), Emma Söderberg (Lund University), Al-Hussein Hameed Jasim (Tetra Pak), Andreas Bexell (Ericsson AB/Lund University), Nikolaos Korkakakis (Volvo Cars), Amir Aminifar (Lund University), Robert Lagerstedt (Bosch), Pontus Olsson (Bosch), Per Sigurdson (Remotive Labs), Markus Borg (CodeScene and Lund University), Nadim Hagatulah (Lund University), Alma Orucevic-Alagic (Lund University), Maria Kihl (Lund University).	__Towards Sustainable DevOps for Cyber Physical Systems__|
 | 12:25pm         | Closing|
@@ -32,17 +32,23 @@ The First International Workshop on DevOps for Sustainability (DevOpsSustain) is
 <!--<img src="/assets/tamar.png" alt="Dr. Tamar Eilam" width="300" height="300">-->
 <img src="https://github.com/DevOpsSustain/ws2025/blob/gh-pages/assets/tamar.png?raw=true" alt="Dr. Tamar Eilam" width="300" height="300">
 
+**Topic: _Re-Engineering DevOps for Sustainability: challenges and opportunities_**
+
 _Biography_: 
-
 Dr. Tamar Eilam is an IBM Fellow and Chief Scientist for Sustainable Computing at the IBM T.J. Watson Research Center in New York. She leads pioneering research aimed at drastically reducing the carbon footprint of computing across infrastructure, systems, software, data, and AI. Before focusing on Sustainable Computing, Dr. Eilam spearheaded innovative research to improve development and operations effectiveness. She earned her Ph.D. in Computer Science from the Technion, Israel, in 2000, joining IBM T.J. Watson Research Center as a Research Staff Member that same year. In recognition of her exceptional contributions, she was named an IBM Fellow in 2014 — the company's highest technical distinction.
-
-**Topic (tentative): _Re-Engineering DevOps for Sustainability: challenges and opportunities_**
 
 **Dr. Federica Sarro**, University College London
 
 <img src="https://github.com/DevOpsSustain/ws2025/blob/gh-pages/assets/Sarro.png?raw=true" alt="Dr. Federica Sarro" width="300" height="300">
 
-**Topic: Coming soon**
+**Topic: _Search-Based Software Engineering for Realising Responsible Artificial Intelligent Systems_**
+
+**Abstract:**
+_As Artificial Intelligence (AI) systems become increasingly embedded in our daily lives, the need for sustainable and equitable development practices has never been more urgent. In this keynote, I explore how Search-Based Software Engineering (SBSE) can be harnessed to address pressing challenges in modern AI like environmental sustainability and algorithmic fairness. Drawing on over a decade of research at the intersection of software engineering, optimization, and machine learning, I present a compelling vision for how SBSE techniques—such as evolutionary algorithms and multi-objective optimization—can be used to automatically configure, adapt, and improve AI systems with minimal environmental impact and maximal social benefit. I will showcase recent advances in green AI, including energy-aware model selection and deployment strategies, as well as fairness-aware optimization frameworks that balance performance with ethical considerations. Through real-world case studies and empirical evidence, this talk will demonstrate how SBSE not only enhances the efficiency and effectiveness of AI development but also provides a principled foundation for building AI systems that are both greener and fairer._
+
+_Biography_: 
+Federica Sarro is a Full Professor of Software engineering at the Department of Computer Science, University College London.
+She leads the SOLAR (Software Optimisation, Learning and Analytics Research) research group https://solar.cs.ucl.ac.uk.
 
 <!---
 ### Keynote
