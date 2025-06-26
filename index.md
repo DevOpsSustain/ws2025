@@ -10,7 +10,9 @@
 -->
 
 ## Program
-The First International Workshop on DevOps for Sustainability (DevOpsSustain) is co-located with FSE 2025. It will be held on Friday, June 27, in Trondheim, Norway.
+<!--The First International Workshop on DevOps for Sustainability (DevOpsSustain) is co-located with FSE 2025. It will be held on Friday, June 27, in Trondheim, Norway.-->
+
+Friday, June 27 | Room ECLIPSE
 
 | Local Time      | Title |
 |----------------------|-------|
